@@ -6,6 +6,11 @@ This project was built to provide a simple way to retrieve informations about Un
 
 All information is acquired, scraped, parsed, stored and synchronised using a bunch of Python scripts.
 
+## Screenshots
+![screen1](Screenshots/screen1.jpg) | ![screen2](Screenshots/screen2.jpg) | ![screen3](Screenshots/screen3.jpg)
+--- | --- | ---
+![screen4](Screenshots/screen4.jpg) | ![screen5](Screenshots/screen5.jpg) | ![screen6](Screenshots/screen6.jpg)
+
 ## Start using it
 
 You can start using the univaq telegram bot by searching in the Telegram app for <a href='https://t.me/Univaq_Info_Bot'>@Univaq_Info_Bot</a>.
