@@ -1,4 +1,4 @@
-## UnivaqBot - Computer Science Univaq
+## UnivaqBot - Computer Science
 
 This is an **unofficial** <a href='https://telegram.org/blog/bot-revolution'>telegram bot</a> for the <a href='http://www.univaq.it/'>University of L'Aquila</a>.
 
