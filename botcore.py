@@ -48,7 +48,7 @@ def help(bot, update):
     bot.sendMessage(update.message.chat_id, help_message, parse_mode='HTML')
 
 def main():
-    token = '304755425:AAEzMUEs7i4A38Xn2u_RCMj6XmBc5X24Hxg'
+    token = os.environ['TELEGRAMBOT']
     updater = Updater(token)
     dp = updater.dispatcher
 
