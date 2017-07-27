@@ -1,6 +1,6 @@
 ## UnivaqBot - Computer Science
 
-This is an **Unofficial** [telegram bot](https://telegram.org/blog/bot-revolution) for the [University of L'Aquila.](www.univaq.it)
+This is an **Unofficial** [telegram bot](https://telegram.org/blog/bot-revolution) for the [University of L'Aquila](www.univaq.it).
 
 This project was built to provide a simple way to retrieve informations about Univaq and its departments(for now just for [Disim](http://www.disim.univaq.it/main/index.php)).
 
