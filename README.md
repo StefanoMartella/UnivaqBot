@@ -1,8 +1,8 @@
 ## UnivaqBot - Computer Science
 
-This is an **unofficial** <a href='https://telegram.org/blog/bot-revolution'>telegram bot</a> for the <a href='http://www.univaq.it/'>University of L'Aquila</a>.
+This is an **Unofficial** [telegram bot](https://telegram.org/blog/bot-revolution) for the [University of L'Aquila.](www.univaq.it)
 
-This project was built to provide a simple way to retrieve informations about Univaq and its departments(for now just for <a href='http://www.disim.univaq.it/main/index.php'>Disim</a>).
+This project was built to provide a simple way to retrieve informations about Univaq and its departments(for now just for [Disim](http://www.disim.univaq.it/main/index.php)).
 
 All information is acquired, scraped, parsed, stored and synchronised using a bunch of Python scripts.
 
@@ -13,7 +13,7 @@ All information is acquired, scraped, parsed, stored and synchronised using a bu
 
 ## Start using it
 
-You can start using the univaq telegram bot by searching in the Telegram app for <a href='https://t.me/Univaq_Info_Bot'>@Univaq_Info_Bot</a>.
+You can start using the univaq telegram bot by searching in the Telegram app for [@Univaq_Info_Bot](https://t.me/Univaq_Info_Bot).
 
 ## Functionalities
 
