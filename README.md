@@ -17,7 +17,7 @@ You can start using the univaq telegram bot by searching in the Telegram app for
 
 ## Functionalities
 
-As with every telegram bot, you can ask the bot what does by entering /help or even /start.
+As with every telegram bot, you can ask the bot what does by entering `/help` or even `/start`.
 
 ```
 La lista dei comandi:
