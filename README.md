@@ -7,9 +7,9 @@ This project was built to provide a simple way to retrieve informations about Un
 All information is acquired, scraped, parsed, stored and synchronised using a bunch of Python scripts.
 
 ## Screenshots
-![screen1](Screenshots/screen1.jpg) | ![screen2](Screenshots/screen2.jpg) | ![screen3](Screenshots/screen3.jpg)
+![screen1](screenshots/screen1.jpg) | ![screen2](screenshots/screen2.jpg) | ![screen3](screenshots/screen3.jpg)
 --- | --- | ---
-![screen4](Screenshots/screen4.jpg) | ![screen5](Screenshots/screen5.jpg) | ![screen6](Screenshots/screen6.jpg)
+![screen4](screenshots/screen4.jpg) | ![screen5](screenshots/screen5.jpg) | ![screen6](screenshots/screen6.jpg)
 
 ## Start using it
 
