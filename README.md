@@ -1,3 +1,6 @@
+## This project has been moved here:
+https://github.com/giacomocerquone/UnivaqBot
+
 ## UnivaqBot - Computer Science
 
 This is an **Unofficial** [telegram bot](https://telegram.org/blog/bot-revolution) for the [University of L'Aquila](http://univaq.it).
